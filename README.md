@@ -1,4 +1,6 @@
 # ARGONAUT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 arduino robot based on the [otto robot](https://www.ottodiy.com/)
 
 ## PARTS
