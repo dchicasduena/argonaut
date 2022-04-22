@@ -6,6 +6,7 @@ arduino robot based on the [otto robot](https://www.ottodiy.com/)
 ## PARTS
 - arduino nano x1
 - arduino nano shield i/o x1
+- ultrasonic sensor x1
 - micro servo-motors x4
 - piezo buzzer x1
 - f/f jumper wires x6
